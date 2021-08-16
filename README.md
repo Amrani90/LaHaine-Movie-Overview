@@ -86,7 +86,13 @@ Day 1 Basic-Exercise
 
                 1995 </b></center>
 
-        
+        <nav> <em>
+  <i>  <a href="https://github.com/Short2000/ContactPage/edit/main/README.md/">main</a>
+  <i>  <a href="https://github.com/Short2000/ContactPage/edit/main/README.md/">LaHainePage</a>
+  <i>  <a href="https:>https://github.com/Short2000/ContactPage/edit/main/README.md/">ContactPage</a>
+  <i>  <a href="https:>https://github.com/Short2000/Redman--Go-Hard-Lyrics-/">Redman(Lyrics)</a>
+  <i>  <a href="https://github.com/Short2000/Welcome-Everbody/edit/main/README.md/">Welcome Everbody</a>
+    </nav> </em>
 
 
         
